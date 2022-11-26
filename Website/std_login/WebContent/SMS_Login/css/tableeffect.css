@@ -1,0 +1,27 @@
+th, td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+	border: 1px solid;  
+  }
+th {
+  background-color: #0080ff;
+  color: white;
+}
+td {
+  background-color: #0000a0;
+  color: white;
+}
+h2 {
+	padding:15px;
+ 	text-align: center;
+	background-color: #8000ff;
+	color: white;
+	height: 65px;
+}
+
